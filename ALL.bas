@@ -2,7 +2,11 @@ Attribute VB_Name = "Module5"
 Sub CombinedScript()
     Call TickerList
     Call QuarterlyChange
-    Call PercentChange
+    Call PercentageChange
+    Call TotalStock
+    Call HighestPercentage
+    Call LowestPercentage
+    Call HighestVolume
 End Sub
 Sub TickerList()
     Dim ws As Worksheet
