@@ -1,4 +1,9 @@
 Attribute VB_Name = "Module5"
+Sub CombinedScript()
+    Call TickerList
+    Call QuarterlyChange
+    Call PercentChange
+End Sub
 Sub TickerList()
     Dim ws As Worksheet
     Dim sheetNames As Variant
