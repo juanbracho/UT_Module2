@@ -38,16 +38,6 @@ By the end of this assignment, you will be able to:
 5. **Loop Across Worksheets**:
     - Ensure the script runs successfully on all sheets within the workbook.
 
-6. **Submission Requirements**:
-    - Include screenshots of the results.
-    - Provide separate VBA script files and a `README.md`.
-
-## Example Output
-Below is an example of the expected output:
-- Columns for **Quarterly Change**, **Percent Change**, and **Total Stock Volume** filled with data.
-- Conditional formatting applied for visual distinction.
-- Summary of stocks with greatest percent changes and volume.
-
 ## Learning Highlights
 ### **Module Overview**
 In this module, you explored how to:
@@ -60,12 +50,6 @@ In this module, you explored how to:
 - Creating reusable scripts to automate tasks.
 - Data visualization and formatting with Excel.
 
-## Placeholder Sections
-- **Result Screenshot Placeholder**: Add a screenshot showing the VBA result.
-- **Code Placeholder**: Include the VBA code used for the assignment.
-
 ## Resources
 - Microsoft Excel with VBA enabled.
 - Stock market data provided in the assignment folder.
-
-Feel free to replace the placeholders with your specific screenshots and VBA code as required.
